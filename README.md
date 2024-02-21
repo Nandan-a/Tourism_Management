@@ -1,3 +1,3 @@
 Tourism_Management
         
-Complete details about the tourist place to visit.Where we can access information about that particular place
+A Tourism Management System database project aims to efficiently organize and manage various aspects of tourism operations. The database serves as the backbone for storing, retrieving, and manipulating data related to tourism activities, destinations, bookings, customers, and resources.
